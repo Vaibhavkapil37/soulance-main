@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Play - Free HTML Template for Startup, Apps and SaaS
 
 Play is an open-source and free bootstrap 5 based HTML template created by the UIdeck team. It's a part of our new initiative to give back to the community and create some impactful open source projects.
@@ -23,3 +24,6 @@ Play is an open-source template, you can use it with your personal or commercial
 ## 💙 Support
 You can always support this project by [Starring🌟 This Repository](https://github.com/uideck/play-bootstrap) 
 and sharing with friends. Also open an issue if you find bug or feel free to contribute by pull requests after fixing any issue or adding more values.
+=======
+# onlysoulance
+>>>>>>> 2da330d028a8516366e176016f1519d1df1fcfab
